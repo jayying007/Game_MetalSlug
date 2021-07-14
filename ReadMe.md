@@ -8,7 +8,7 @@
 
 这个项目主要用MVC的架构去开发，核心就是下面这张图
 
-![设计](https://blog-img-1256061645.cos.ap-guangzhou.myqcloud.com/设计.png)
+![map](https://blog-img-1256061645.cos.ap-guangzhou.myqcloud.com/map.png)
 
 
 
