@@ -1,0 +1,1 @@
+hostageimg=img/Hostage/Move1

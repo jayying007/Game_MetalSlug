@@ -1,0 +1,1 @@
+bombA=img/bomb

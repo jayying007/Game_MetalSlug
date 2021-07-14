@@ -1,0 +1,10 @@
+Enemy-1=simpleEnemy,700,415,50,75
+Enemy-2=simpleEnemy,900,415,50,75
+Enemy-3=simpleEnemy,1300,415,50,75
+Enemy-4=simpleEnemy,1700,415,50,75
+Enemy-5=simpleEnemy,2100,415,50,75
+Enemy-6=simpleEnemy,2500,415,50,75
+Enemy-7=simpleEnemy,2800,415,50,75
+Enemy-8=simpleEnemy,3200,415,50,75
+Enemy-9=simpleEnemy,3300,415,50,75
+Enemy-10=simpleEnemy,3500,415,50,75
